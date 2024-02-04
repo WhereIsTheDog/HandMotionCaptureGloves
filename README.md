@@ -10,9 +10,6 @@ This project drew inspiration from the implementation of Mocap 3D virtual realit
 <div align=center><img src="Demo/circuit%202.png" /></div>
 <p align="center">Circuit 2<p align="center">
 
-<div align=center><img src="Demo/circuit%202.png" /></div>
-<p align="center">Circuit 2<p align="center">
-
 <div align=center><img src="Demo/Making Gloves.JPG" /></div>
 <p align="center">Making Gloves<p align="center">
 
